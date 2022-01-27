@@ -1,13 +1,10 @@
-### Oops
+### DariousHax
 
-**I'm Lucas Vidal** :brazil: <br />
-**15y dev & hacker** <br />
-***Studying front-end*** <br />
+I'm Lucas Vidal
+15y dev & hacker
 
-**Programming languages:** <br />
-*Javascript, HTML, CSS, Python.*
+- 👾 CyberSecurity Student && BuHunter 👾
+- 🕵️ Darious >> Since 2022
+- 🌐 Discord: d4ri0u$#8807
 
-**My contact:** <br />
-*vidal34512044@gmail.com (email)*
-
-
+Atualmente estudando frontend, e um pouco de caçar falhas na web.

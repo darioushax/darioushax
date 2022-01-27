@@ -1,6 +1,6 @@
 ### DariousHax
 
-I'm Lucas Vidal
+I'm Lucas Vidal<br/>
 15y dev & hacker
 
 - 👾 CyberSecurity Student && BuHunter 👾
